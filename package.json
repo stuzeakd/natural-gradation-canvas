@@ -1,0 +1,30 @@
+{
+  "name": "gradation",
+  "version": "1.0.0",
+  "description": "natural gradation",
+  "main": "gradation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stuzeakd/natural-gradation-canvas"
+  },
+  "keywords": [
+    "gradation",
+    "natural",
+    "ink",
+    "drop"
+  ],
+  "author": "appley",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/stuzeakd/natural-gradation-canvas/issues"
+  },
+  "homepage": "https://github.com/stuzeakd/natural-gradation-canvas",
+  "dependencies": {
+    "canvas": "^1.1.6",
+    "common-canvas": "^1.0.4",
+    "gaussian-noise": "^1.0.1"
+  }
+}
